@@ -26,7 +26,7 @@ Durante o workshop estaremos trabalhando com 2 Laboratórios, que tem como princ
 
 - **[Laboratório 1 - Criando conta no Azure](lab-1/01-introducao-azure.md)**
 
-- **[ChatBots com QnAMaker](./lab-2/workshop-2/README.md)**
+- **[ChatBots com QnAMaker](./lab-2/workshop-2/02-qnamaker-ai-chatbot.md)**
 
 - **[Laboratório 3 - Pedido de Pizzas SampaMais](./lab-3/workshop-3/README.md)**
 
