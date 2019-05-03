@@ -7,19 +7,12 @@ Nesse laboratório estaremos integrando um **[Azure Bot Service](https://aka.ms/
 ## Agenda - Lab 03
 
 - **[1. Criando Conta no LUIS](#1-criando-conta-no-luis)**
-
 - **[2. Criando uma App no LUIS](#2-criando-uma-app-no-luis)**
-
 - **[3. Criando as Intenções no LUIS](#3-criando-as-intenções-no-luis)**
-
 - **[4. Criando as Entidades no LUIS](#4-criando-as-entidades-no-luis)**
-
 - **[5. Criando os Enunciados no LUIS](#5-criando-os-enunciados-no-luis)**
-
 - **[6. Conectando o LUIS com ChatBot](#6-conectando-o-luis-com-chatbot)**
-
 - **[7. Palavras Finais](#7-palavras-finais)**
-
 
 ## 1. Criando Conta no LUIS.ai
 
