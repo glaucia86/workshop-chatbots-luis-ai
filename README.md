@@ -13,6 +13,8 @@ Para os laboratórios que iremos realizar, precisaremos ter instalado em suas m�
 - **[VS Code](http://bit.ly/2GW1K8O)**
 - **[Node.js](https://nodejs.org/en/)**
 - **[Git](https://git-scm.com/)**
+- **Microsoft Bot Framework Emulator - [DOWNLOAD AQUI](https://github.com/Microsoft/BotFramework-Emulator/releases
+)**
 - **[Serviços Cognitivos](http://bit.ly/2PHvzOA)**
 - **[Azure Bot Service](http://bit.ly/2GVfHE1)**
 
