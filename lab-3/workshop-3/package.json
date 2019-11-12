@@ -24,6 +24,6 @@
     "botbuilder": "^3.14.0",
     "dotenv-extended": "^2.3.0",
     "moment": "^2.24.0",
-    "restify": "^6.3.4"
+    "restify": "^8.4.0"
   }
 }
